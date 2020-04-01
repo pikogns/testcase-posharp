@@ -11,7 +11,7 @@ namespace CSharpProject
             var userName = Environment.UserName;
             var dateTime = DateTime.Now;
             var assemblyPath = Assembly.GetExecutingAssembly().Location;
-            Console.WriteLine($"Test application started at {dateTime} on {machineName} from {userName} and path {assemblyPath}");
+            Console.WriteLine($"0Test application started at {dateTime} on {machineName} from {userName} and path {assemblyPath}");
         }
     }
 }
