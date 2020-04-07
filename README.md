@@ -20,4 +20,4 @@
 	* запаковки в NuGet-пакет.
 
 
-commit in master from web
+foo
