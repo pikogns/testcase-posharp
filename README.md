@@ -20,4 +20,4 @@
 	* запаковки в NuGet-пакет.
 
 
-commit in master
+commit in master from web
